@@ -1,0 +1,2 @@
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\bin\Debug\net7.0\win-x64\publish\LongestWord.pdb
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\bin\Debug\net7.0\win-x64\publish\LongestWord.exe

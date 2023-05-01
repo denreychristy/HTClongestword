@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xJOdI1s0nKH8IQoH3nLv0DDWf9RN3aAG7ueY7fyYKuxPlajAWAyI460qmhbSphX6P7qobKVIOGUaewKkl9wtOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Dropbox\\Denrey\\Coding\\C#\\LongestWord\\LongestWord.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.4\\microsoft.netcore.app.runtime.win-x64.7.0.4.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.4.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.4\\microsoft.aspnetcore.app.runtime.win-x64.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\bin\Debug\net7.0\LongestWord.exe
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\bin\Debug\net7.0\LongestWord.deps.json
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\bin\Debug\net7.0\LongestWord.runtimeconfig.json
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\bin\Debug\net7.0\LongestWord.dll
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\bin\Debug\net7.0\LongestWord.pdb
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\obj\Debug\net7.0\LongestWord.csproj.AssemblyReference.cache
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\obj\Debug\net7.0\LongestWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\obj\Debug\net7.0\LongestWord.AssemblyInfoInputs.cache
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\obj\Debug\net7.0\LongestWord.AssemblyInfo.cs
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\obj\Debug\net7.0\LongestWord.csproj.CoreCompileInputs.cache
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\obj\Debug\net7.0\LongestWord.dll
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\obj\Debug\net7.0\refint\LongestWord.dll
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\obj\Debug\net7.0\LongestWord.pdb
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\obj\Debug\net7.0\LongestWord.genruntimeconfig.cache
+C:\Users\PC\Dropbox\Denrey\Coding\C#\LongestWord\obj\Debug\net7.0\ref\LongestWord.dll
